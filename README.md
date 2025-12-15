@@ -74,10 +74,10 @@ if cal_chi2_sq < table_chi2:
     print("The given data can be fitted in Poisson Distribution at 1% LOS") 
 else: 
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
-
+```
   https://colab.research.google.com/drive/1R1ByqO6uwZrhekjj8Qrp42_iCdcBRXok?usp=sharing
 
-```
+
 
 
 # Output
